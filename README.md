@@ -237,9 +237,12 @@ Buat tampilan aplikasi menggunakan Java Swing dengan beberapa fitur yang tersedi
         }
         tampil();
     }            
-</pre>
+  </pre>
 - Berikut adalah tampilan program apabila dijalankan :
-![image](https://github.com/user-attachments/assets/4ee491e5-d7d0-4c9f-ae24-a100d233deca)
+  ![image](https://github.com/user-attachments/assets/ad8cd09c-bde8-4589-9a3f-b8766ca166bd)
+
+
+
 
 
   
